@@ -1,6 +1,6 @@
 # React - Topic Deep Dive
 
-The following is a deep dive, designed to familiarize you thoroughly with React. It is not the "easy path to just learning 'enough'" - it aims far highter, combining thorough study of the official docs, regular practice projects, comprehensive exploration of React's ecosystem and hands on non-React JavaScript practice to ensure a rock solid foundation in everything React.
+The following is a deep dive, designed to familiarize you thoroughly with React. It is not the "easy path to just learning 'enough'" - it aims far higher, combining thorough study of the official docs, regular practice projects, comprehensive exploration of React's ecosystem and hands on non-React JavaScript practice to ensure a rock solid foundation in everything React.
 
 ## Tier 0 - reference only if you need pre-React basics
 - [ ] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) (If you want more confidence programming)
@@ -127,7 +127,7 @@ On two projects of your choice - use no CLI or boilerplate created by someone el
 - [ ]  Video: [React Community Videos](https://reactjs.org/community/videos.html) Pick and watch one video - ensure you understand everything, pause and research if necessary
 - [ ]  Official Docs: [Webpack Docs](https://webpack.js.org/concepts/)
 - [ ]  Official Docs: [RxJS Docs](http://reactivex.io/rxjs//)
-- [ ]  Official Docs: [Gulp Docs](https://gulpjs.com/)sty
+- [ ]  Official Docs: [Gulp Docs](https://gulpjs.com/)
 - [ ]  Official Docs: [Integrating with Other Libraries](https://reactjs.org/docs/integrating-with-other-libraries.html)
 - [ ]  Official Docs: [Redux docs](https://redux.js.org/)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose.
@@ -147,6 +147,7 @@ On two projects of your choice - use no CLI or boilerplate created by someone el
 
 ## Bonus - advanced
 - [ ]  Official Docs: [React Native](https://facebook.github.io/react-native/) Study thoroughly, then refactor any previous project into a mobile app using React Native
+- [ ]  Official Docs: [Flow](https://flow.org/) Study thoroughly, then refactor any previous project to use Flow.
 - [ ]  Project: Make an open source contribution to a project you use
 - [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete one round of any past contest using JavaScript 
 - [ ]  Official Docs: [MDN Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
