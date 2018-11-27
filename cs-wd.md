@@ -29,14 +29,14 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Course: [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 * [ ] Course: [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
 * [ ] Course: [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
-* [ ] [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
-* [ ] [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx)
+* [ ] Course: [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
+* [ ] Course: [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx)
 * [ ] Book: [DOM Enlightenment](http://domenlightenment.com/)
 * [ ] Project: Simon Game from the frontend section of FCC
 * [ ] Project: Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/) in JavaScript
-* [ ] Course - [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) on edX or [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (or both, your choice)
+* [ ] Course: [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) on edX or Course: [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native) on edX (or both, your choice)
 * [ ] The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want.
-* [ ] Course: [Calculus One](https://www.coursera.org/learn/calculus1)
+* [ ] Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 * [ ] Book: [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [ ] Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/) landing page
 * [ ] Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
@@ -58,11 +58,11 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Course: [Software Testing](https://www.udacity.com/course/software-testing--cs258)
 * [ ] Course: [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 * [ ] Project: Clone the Netflix interface using React, Angular, or Vue - pulling data from [the Movie DB API](https://www.themoviedb.org/documentation/api) or an API in a backend you create yourself.
-* [ ] Course: [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)
+* [ ] Course: [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
 * [ ] Project: Complete all Classic Puzzles - Medium on [CodinGame](https://www.codingame.com/) in JavaScript
 * [ ] Course: [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
 * [ ] Project: Complete all challenges from the [Code Jam Round 1A 2015](https://code.google.com/codejam/contest/4224486/dashboard)
-* [ ] Book: [JavaScript Spessore](https://leanpub.com/javascript-spessore/read) - no longer available - use [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html) instead.
+* [ ] Book: [Functional Light JS](https://github.com/getify/Functional-Light-JS)
 * [ ] Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-clean-blog/) blog template - note that there are multiple pages
 * [ ] Course: [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 * [ ] Course: [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
@@ -95,7 +95,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Course: [Operating Systems and System Programming](http://theopenacademy.com/content/operating-systems-and-system-programming)
 * [ ] Project: Create a node module that will convert markdown to properly formatted html
 * [ ] Course: [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
-* [ ] Course: [Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing)
+* [ ] Course: [Robotics Fundamentals](https://www.edx.org/course/robotics-fundamentals-pennx-robo1x)
 * [ ] Project: Clone [Learn Harmony](http://learnharmony.org/#/?_k=0okjs7)
 * [ ] Course: [Computer Networks](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 * [ ] Course: [Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2016/home)
